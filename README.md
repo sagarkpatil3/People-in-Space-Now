@@ -13,7 +13,7 @@ Features
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/people-in-space-now.git
+   git clone https://github.com/sagarkpatil3/people-in-space-now.git
    cd people-in-space-now
    ```
 
